@@ -1,0 +1,49 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\COMMON\questasim_10.0d\examples
+T_opt
+Z1 VB;XhlI1FK3B<7VkkbDJa01
+Z2 04 12 4 work encoderth_tb fast 0
+Z3 =1-001ec9597825-671b6da6-2bf-d7c
+Z4 o-quiet -auto_acc_if_foreign -work work +acc
+Z5 n@_opt
+Z6 OE;O;10.0d;49
+Z7 dD:\COMMON\questasim_10.0d\examples
+vencoderth
+Z8 I`GXOm9^3TDWzU07P=_bH92
+Z9 V30AXAJ=`^5XFA@kC5gcR_0
+Z10 dD:\@MVL2024\VERILOG\EXP13 ENCODER
+Z11 w1729850706
+Z12 8D:\@MVL2024\VERILOG\EXP13 ENCODER\encoder3.v
+Z13 FD:\@MVL2024\VERILOG\EXP13 ENCODER\encoder3.v
+L0 1
+Z14 OE;L;10.0d;49
+r1
+31
+Z15 !s102 -nocovercells
+Z16 o-work work -nocovercells -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z17 !s100 TlE7aRKhTH9l0>SV`j_R02
+Z18 !s108 1729850766.975000
+Z19 !s107 D:\@MVL2024\VERILOG\EXP13 ENCODER\encoder3.v|
+Z20 !s90 -reportprogress|300|-work|work|-vopt|-nocovercells|D:\@MVL2024\VERILOG\EXP13 ENCODER\encoder3.v|
+!s85 0
+vencoderth_tb
+Z21 IUMe]V@MRX`UQLzDO_[3A81
+Z22 VIZkO3mb_7lPig_OE`6U6]3
+R10
+Z23 w1729850760
+Z24 8D:\@MVL2024\VERILOG\EXP13 ENCODER\encoderth.v
+Z25 FD:\@MVL2024\VERILOG\EXP13 ENCODER\encoderth.v
+L0 1
+R14
+r1
+31
+R15
+R16
+Z26 !s100 H==@X=Na?AFL8aP65@nVE1
+!s85 0
+Z27 !s108 1729850767.584000
+Z28 !s107 D:\@MVL2024\VERILOG\EXP13 ENCODER\encoderth.v|
+Z29 !s90 -reportprogress|300|-work|work|-vopt|-nocovercells|D:\@MVL2024\VERILOG\EXP13 ENCODER\encoderth.v|

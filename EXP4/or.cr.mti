@@ -1,0 +1,15 @@
+D:/@MVL2024/VERILOG/EXP4/ortb.v {1 {vlog -work work -vopt -nocovercells {D:\@MVL2024\VERILOG\EXP4\ortb.v}
+QuestaSim vlog 10.0d Compiler 2011.10 Oct 30 2011
+-- Compiling module ortb
+
+Top level modules:
+	ortb
+
+} {} {}} D:/@MVL2024/VERILOG/EXP4/or.v {1 {vlog -work work -vopt -nocovercells {D:\@MVL2024\VERILOG\EXP4\or.v}
+QuestaSim vlog 10.0d Compiler 2011.10 Oct 30 2011
+-- Compiling module or1
+
+Top level modules:
+	or1
+
+} {} {}}

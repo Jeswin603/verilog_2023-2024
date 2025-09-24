@@ -1,0 +1,49 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\@MVL2024\VERILOG\EXP3
+T_opt
+Z1 VPOY7491ac>Qi<G48P^BWS2
+Z2 04 6 4 work and1tb fast 0
+Z3 =1-001ec9597825-670506b0-305-12ec
+Z4 o-quiet -auto_acc_if_foreign -work work +acc
+Z5 n@_opt
+Z6 OE;O;10.0d;49
+Z7 dD:\@MVL2024\VERILOG\EXP3
+vand1
+Z8 I1mU?0d4oC[BIg9f<Zdf0m0
+Z9 Vm8]d7<<:o`bn<@KonV1O`2
+R7
+Z10 w1728382536
+Z11 8D:\@MVL2024\VERILOG\EXP3\and.v
+Z12 FD:\@MVL2024\VERILOG\EXP3\and.v
+L0 1
+Z13 OE;L;10.0d;49
+r1
+31
+Z14 !s102 -nocovercells
+Z15 o-work work -nocovercells -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z16 !s100 <^0Q61SLCSBd`m2I@LBDa3
+Z17 !s90 -reportprogress|300|-work|work|-vopt|-nocovercells|D:\@MVL2024\VERILOG\EXP3\and.v|
+Z18 !s108 1728382623.020000
+Z19 !s107 D:\@MVL2024\VERILOG\EXP3\and.v|
+!s85 0
+vand1tb
+Z20 I^=C2moVT>VLCcY7noERGD1
+Z21 VVbDFYPLJ`^]@_dIU>Ne<<1
+R7
+Z22 w1728382615
+Z23 8D:\@MVL2024\VERILOG\EXP3\andtb.v
+Z24 FD:\@MVL2024\VERILOG\EXP3\andtb.v
+L0 2
+R13
+r1
+31
+R14
+R15
+Z25 !s100 2=k;H=O=AdYZ;06hJAHaI1
+!s85 0
+Z26 !s108 1728382623.582000
+Z27 !s107 D:\@MVL2024\VERILOG\EXP3\andtb.v|
+Z28 !s90 -reportprogress|300|-work|work|-vopt|-nocovercells|D:\@MVL2024\VERILOG\EXP3\andtb.v|

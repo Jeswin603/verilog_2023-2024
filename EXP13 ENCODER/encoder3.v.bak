@@ -1,0 +1,20 @@
+module encoderth(
+  input [7:0]a,
+  output reg [2:0]x);
+  always@(*)
+  begin
+    case(a)
+      8'h1: x=3'h0;
+      8'h2: x=3'h1;
+      8'h4: x=3'h2;
+      8'h8: x=3'h3;
+      8'h16: x=3'h4;
+      8'h32: x=3'h5;
+      8'h64: x=3'h6;
+      8'h128: x=3'h7;
+      default: x=3'h0;
+    end case
+end 
+endmodule
+
+

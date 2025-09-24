@@ -1,0 +1,25 @@
+Tue Nov 26 3:55:11 PM India Standard Time 2024
+Trace back: ** Fatal: (vish-9) Problem while writing mpf file "tmpfile".
+No space left on device. (errno = ENOSPC)
+
+    while executing
+"ProjectWrite {D:/@MVL2024/VERILOG/EXP22 RING COUNTER/rc.mpf} 6 work unused {{D:/@MVL2024/VERILOG/EXP22 RING COUNTER/rc_tb.v} {cover_toggle 0 vlog_prot..."
+    ("eval" body line 1)
+    invoked from within
+"eval [linsert $ProjectWriteArgs 0 ProjectWrite ]"
+    (procedure "Project::saveProjectSpecificSettings" line 50)
+    invoked from within
+"Project::saveProjectSpecificSettings"
+    (procedure "Project::saveProjectData" line 5)
+    invoked from within
+"Project::saveProjectData"
+    (procedure "Project::compileSelectedFiles" line 3)
+    invoked from within
+"Project::compileSelectedFiles"
+    (menu invoke)
+  <2: ::tkerror {** Fatal: (vish-9) Problem while writing mpf file "tmpfile".
+No space left on device. (errno = ENOSPC)
+}
+  <1: ::bgerror {** Fatal: (vish-9) Problem while writing mpf file "tmpfile".
+No space left on device. (errno = ENOSPC)
+}

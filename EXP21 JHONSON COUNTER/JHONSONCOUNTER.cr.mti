@@ -1,0 +1,8 @@
+{D:/@MVL2024/VERILOG/EXP21 JHONSON COUNTER/johnson_counter.v} {1 {vlog -work work -vopt -nocovercells {D:\@MVL2024\VERILOG\EXP21 JHONSON COUNTER\johnson_counter.v}
+QuestaSim vlog 10.0d Compiler 2011.10 Oct 30 2011
+-- Compiling module jhonson_counter
+
+Top level modules:
+	jhonson_counter
+
+} {} {}}

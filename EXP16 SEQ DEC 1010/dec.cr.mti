@@ -1,0 +1,15 @@
+{D:/@MVL2024/VERILOG/EXP16 SEQ DEC 1010/dec.v} {1 {vlog -work work -vopt -nocovercells {D:/@MVL2024/VERILOG/EXP16 SEQ DEC 1010/dec.v}
+QuestaSim vlog 10.0d Compiler 2011.10 Oct 30 2011
+-- Compiling module sequence_detector
+
+Top level modules:
+	sequence_detector
+
+} {} {}} {D:/@MVL2024/VERILOG/EXP16 SEQ DEC 1010/dectb.v} {1 {vlog -work work -vopt -nocovercells {D:/@MVL2024/VERILOG/EXP16 SEQ DEC 1010/dectb.v}
+QuestaSim vlog 10.0d Compiler 2011.10 Oct 30 2011
+-- Compiling module tb_sequence_detector
+
+Top level modules:
+	tb_sequence_detector
+
+} {} {}}

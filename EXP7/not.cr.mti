@@ -1,0 +1,15 @@
+D:/@MVL2024/VERILOG/exp7/nottb.v {1 {vlog -work work -vopt -nocovercells {D:\@MVL2024\VERILOG\exp7\nottb.v}
+QuestaSim vlog 10.0d Compiler 2011.10 Oct 30 2011
+-- Compiling module nottb
+
+Top level modules:
+	nottb
+
+} {} {}} D:/@MVL2024/VERILOG/exp7/not.v {1 {vlog -work work -vopt -nocovercells {D:\@MVL2024\VERILOG\exp7\not.v}
+QuestaSim vlog 10.0d Compiler 2011.10 Oct 30 2011
+-- Compiling module not1
+
+Top level modules:
+	not1
+
+} {} {}}

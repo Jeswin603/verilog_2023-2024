@@ -1,0 +1,15 @@
+{D:/@MVL2024/VERILOG/EXP28 RAM/ram.v} {1 {vlog -work work -vopt -nocovercells {D:\@MVL2024\VERILOG\EXP28 RAM\ram.v}
+QuestaSim vlog 10.0d Compiler 2011.10 Oct 30 2011
+-- Compiling module ram_8bit
+
+Top level modules:
+	ram_8bit
+
+} {} {}} {D:/@MVL2024/VERILOG/EXP28 RAM/ram_tb.v} {1 {vlog -work work -vopt -nocovercells {D:\@MVL2024\VERILOG\EXP28 RAM\ram_tb.v}
+QuestaSim vlog 10.0d Compiler 2011.10 Oct 30 2011
+-- Compiling module tb_ram_8bit
+
+Top level modules:
+	tb_ram_8bit
+
+} {} {}}

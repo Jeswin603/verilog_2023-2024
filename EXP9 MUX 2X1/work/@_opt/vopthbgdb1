@@ -1,0 +1,84 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\COMMON\questasim_10.0d\examples
+T_opt
+Z1 VYihn[G21mAddOm@m^G`zd3
+Z2 04 8 4 work twomuxtb fast 0
+Z3 =1-001ec9597825-671a36f8-4b-844
+Z4 o-quiet -auto_acc_if_foreign -work work +acc
+Z5 n@_opt
+Z6 OE;O;10.0d;49
+Z7 dD:\COMMON\questasim_10.0d\examples
+T_opt1
+Z8 V4V0Af`C]jUEzVn7_oh?0X2
+R2
+Z9 =1-001ec9597825-670e4210-220-11e8
+Z10 o-quiet -auto_acc_if_foreign -work work
+Z11 n@_opt1
+R6
+R7
+T_opt2
+Z12 ViEiM7j:RCeRHHN?Gz8ma;3
+Z13 04 6 4 work twomux fast 0
+R2
+Z14 =1-001ec9597825-670e4eb0-2a9-12ac
+R4
+Z15 n@_opt2
+R6
+R7
+vtwomux
+Z16 IbKLo2DU81QJJdZgZD]I@N1
+Z17 VXf=J@GHEn8WLS7bO9T1l53
+Z18 dD:\@MVL2024\VERILOG\EXP9 MUX 2X1
+Z19 w1728985723
+Z20 8D:\@MVL2024\VERILOG\EXP9 MUX 2X1\mux2x1.v
+Z21 FD:\@MVL2024\VERILOG\EXP9 MUX 2X1\mux2x1.v
+L0 1
+Z22 OE;L;10.0d;49
+r1
+31
+Z23 !s102 -nocovercells
+Z24 o-work work -nocovercells -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z25 !s100 L3@9IDA;R=MGX54JG=TnF2
+Z26 !s108 1729771230.289000
+Z27 !s107 D:\@MVL2024\VERILOG\EXP9 MUX 2X1\mux2x1.v|
+Z28 !s90 -reportprogress|300|-work|work|-vopt|-nocovercells|D:\@MVL2024\VERILOG\EXP9 MUX 2X1\mux2x1.v|
+!s85 0
+vtwomux_tb
+Z29 IOSV;l>ECk>ZzA]CF1Bn420
+Z30 ViWX5]MNbI`QLSbJ>2cj0a2
+R18
+Z31 w1729771223
+Z32 8D:\@MVL2024\VERILOG\EXP9 MUX 2X1\twomuxtb.v
+Z33 FD:\@MVL2024\VERILOG\EXP9 MUX 2X1\twomuxtb.v
+L0 1
+R22
+r1
+31
+R23
+R24
+Z34 !s100 jGifbO1RThBYNAc>RK3Qz1
+!s85 0
+Z35 !s108 1729771232.317000
+Z36 !s107 D:\@MVL2024\VERILOG\EXP9 MUX 2X1\twomuxtb.v|
+Z37 !s90 -reportprogress|300|-work|work|-vopt|-nocovercells|D:\@MVL2024\VERILOG\EXP9 MUX 2X1\twomuxtb.v|
+vtwomuxtb
+Z38 IzRQC>G9JTlFS:]OJbRIBB3
+Z39 V8KcFfAI_BYSX=zOfT19GH3
+R18
+Z40 w1728990861
+Z41 8D:/@MVL2024/VERILOG/EXP9 MUX 2X1/twomuxtb.v
+Z42 FD:/@MVL2024/VERILOG/EXP9 MUX 2X1/twomuxtb.v
+L0 1
+R22
+r1
+31
+R23
+R24
+Z43 !s90 -reportprogress|300|-work|work|-vopt|-nocovercells|D:/@MVL2024/VERILOG/EXP9 MUX 2X1/twomuxtb.v|
+Z44 !s100 >3XaJ2jdBP3Uc^:V9i_?K0
+Z45 !s108 1728990862.033000
+Z46 !s107 D:/@MVL2024/VERILOG/EXP9 MUX 2X1/twomuxtb.v|
+!s85 0

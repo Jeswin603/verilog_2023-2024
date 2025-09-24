@@ -1,0 +1,29 @@
+module encoderth_tb;
+  reg [7:0] a;
+  wire[2:0]x;
+encoderth uut(.a(a), .x(x));
+
+initial begin 
+  a=8'h0;
+  #10;
+  a=8'h1;
+  #10;
+  a=8'h2;
+  #10;
+  a=8'h3;
+  #10;  
+  a=8'h4;
+  #10;
+  a=8'h5;
+  #10;
+  a=8'h6;
+  #10;
+  a=8'h7;
+  #10;
+  
+end
+endmodule
+  
+  
+  
+  

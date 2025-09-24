@@ -1,0 +1,49 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\@MVL2024\VERILOG\EXP10 MUX 4X1
+T_opt
+Z1 VCXYPfAkhbIo2lDAaT5TgV3
+Z2 04 11 4 work demuxtwo_tb fast 0
+Z3 =1-001ec9597825-670f89ae-382-74c
+Z4 o-quiet -auto_acc_if_foreign -work work +acc
+Z5 n@_opt
+Z6 OE;O;10.0d;49
+Z7 dD:\@MVL2024\VERILOG\EXP10 MUX 4X1
+vdemuxtwo
+Z8 ITAa9AOLDiBmYCz@3Jif?@1
+Z9 V1oK_dOlJc<N5I9d?RRfmS1
+Z10 dD:\@MVL2024\VERILOG\EXP 11 DEMUX 2X1
+Z11 w1729069765
+Z12 8D:/@MVL2024/VERILOG/EXP 11 DEMUX 2X1/DEMUXTWO.v
+Z13 FD:/@MVL2024/VERILOG/EXP 11 DEMUX 2X1/DEMUXTWO.v
+L0 1
+Z14 OE;L;10.0d;49
+r1
+31
+Z15 o-work work -nocovercells -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z16 !s102 -nocovercells
+Z17 !s100 ojf<NhZU>GgX2Hdn[2C_30
+Z18 !s108 1729069766.682000
+Z19 !s107 D:/@MVL2024/VERILOG/EXP 11 DEMUX 2X1/DEMUXTWO.v|
+Z20 !s90 -reportprogress|300|-work|work|-vopt|-nocovercells|D:/@MVL2024/VERILOG/EXP 11 DEMUX 2X1/DEMUXTWO.v|
+!s85 0
+vdemuxtwo_tb
+Z21 If@Q72K=0n4OU2Z8nmHS632
+Z22 VQSO_4gQZaMEB?d^`QED^X1
+R10
+Z23 w1729071516
+Z24 8D:/@MVL2024/VERILOG/EXP 11 DEMUX 2X1/demuxtwo_tb.v
+Z25 FD:/@MVL2024/VERILOG/EXP 11 DEMUX 2X1/demuxtwo_tb.v
+L0 2
+R14
+r1
+31
+R16
+R15
+Z26 !s100 G^Ee;P0?zza=h_e:i6m6I2
+!s85 0
+Z27 !s108 1729071516.728000
+Z28 !s107 D:/@MVL2024/VERILOG/EXP 11 DEMUX 2X1/demuxtwo_tb.v|
+Z29 !s90 -reportprogress|300|-work|work|-vopt|-nocovercells|D:/@MVL2024/VERILOG/EXP 11 DEMUX 2X1/demuxtwo_tb.v|

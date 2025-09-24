@@ -1,0 +1,58 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\COMMON\questasim_10.0d\examples
+T_opt
+VSO[haVck>G4NndXgZfNM32
+04 12 4 work alu_eightbit fast 0
+Z1 04 15 4 work alu_eightbit_tb fast 0
+Z2 =1-001ec9597825-673b1b19-a1-1598
+Z3 o-quiet -auto_acc_if_foreign -work work +acc
+Z4 n@_opt
+Z5 OE;O;10.0d;49
+Z6 dD:\COMMON\questasim_10.0d\examples
+T_opt1
+Z7 VYaY]C=A<aP0Pd0Q9<NaLH1
+R1
+Z8 =1-001ec9597825-673b1af6-7b-f38
+Z9 o-quiet -auto_acc_if_foreign -work work
+Z10 n@_opt1
+R5
+R6
+valu_eightbit
+Z11 I[<<E^1l?i12dUTMB`V[TR1
+Z12 VBl<MQ3MZ2Z;X00g1mNon20
+Z13 dD:\@MVL2024\VERILOG\EXP20 ALU
+Z14 w1731926236
+Z15 8D:\@MVL2024\VERILOG\EXP20 ALU\alu eightbit.v
+Z16 FD:\@MVL2024\VERILOG\EXP20 ALU\alu eightbit.v
+L0 1
+Z17 OE;L;10.0d;49
+r1
+31
+Z18 !s102 -nocovercells
+Z19 o-work work -nocovercells -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z20 !s100 QBBXBKk9DXTjCf8R0IkI:1
+Z21 !s90 -reportprogress|300|-work|work|-vopt|-nocovercells|D:\@MVL2024\VERILOG\EXP20 ALU\alu eightbit.v|
+Z22 !s108 1731926757.524000
+Z23 !s107 D:\@MVL2024\VERILOG\EXP20 ALU\alu eightbit.v|
+!s85 0
+valu_eightbit_tb
+Z24 IZ5L5H?]G3o:JdgZnLzElm2
+Z25 VlfRLFX[AnYOE]9ZG@1<m13
+R13
+Z26 w1731926748
+Z27 8D:\@MVL2024\VERILOG\EXP20 ALU\alueighttb.v
+Z28 FD:\@MVL2024\VERILOG\EXP20 ALU\alueighttb.v
+L0 1
+R17
+r1
+31
+R18
+R19
+Z29 !s90 -reportprogress|300|-work|work|-vopt|-nocovercells|D:\@MVL2024\VERILOG\EXP20 ALU\alueighttb.v|
+Z30 !s100 V^`1[GbX5TI3@30RbbHoQ3
+Z31 !s108 1731926758.148000
+Z32 !s107 D:\@MVL2024\VERILOG\EXP20 ALU\alueighttb.v|
+!s85 0

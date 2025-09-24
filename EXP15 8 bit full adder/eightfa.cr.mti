@@ -1,0 +1,22 @@
+{D:/@MVL2024/VERILOG/EXP15 8 bit full adder/singleadd.v} {1 {vlog -work work -vopt -nocovercells {D:/@MVL2024/VERILOG/EXP15 8 bit full adder/singleadd.v}
+QuestaSim vlog 10.0d Compiler 2011.10 Oct 30 2011
+-- Compiling module add
+
+Top level modules:
+	add
+
+} {} {}} {D:/@MVL2024/VERILOG/EXP15 8 bit full adder/eightfa.v} {1 {vlog -work work -vopt -nocovercells {D:/@MVL2024/VERILOG/EXP15 8 bit full adder/eightfa.v}
+QuestaSim vlog 10.0d Compiler 2011.10 Oct 30 2011
+-- Compiling module eightfa
+
+Top level modules:
+	eightfa
+
+} {} {}} {D:/@MVL2024/VERILOG/EXP15 8 bit full adder/eightfa_tb.v} {1 {vlog -work work -vopt -nocovercells {D:/@MVL2024/VERILOG/EXP15 8 bit full adder/eightfa_tb.v}
+QuestaSim vlog 10.0d Compiler 2011.10 Oct 30 2011
+-- Compiling module eightfa_tb
+
+Top level modules:
+	eightfa_tb
+
+} {} {}}

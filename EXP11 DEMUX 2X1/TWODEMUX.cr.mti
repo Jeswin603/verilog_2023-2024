@@ -1,0 +1,15 @@
+{D:/@MVL2024/VERILOG/EXP 11 DEMUX 2X1/demuxtwo_tb.v} {1 {vlog -work work -vopt -nocovercells {D:/@MVL2024/VERILOG/EXP 11 DEMUX 2X1/demuxtwo_tb.v}
+QuestaSim vlog 10.0d Compiler 2011.10 Oct 30 2011
+-- Compiling module demuxtwo_tb
+
+Top level modules:
+	demuxtwo_tb
+
+} {} {}} {D:/@MVL2024/VERILOG/EXP 11 DEMUX 2X1/DEMUXTWO.v} {1 {vlog -work work -vopt -nocovercells {D:/@MVL2024/VERILOG/EXP 11 DEMUX 2X1/DEMUXTWO.v}
+QuestaSim vlog 10.0d Compiler 2011.10 Oct 30 2011
+-- Compiling module demuxtwo
+
+Top level modules:
+	demuxtwo
+
+} {} {}}

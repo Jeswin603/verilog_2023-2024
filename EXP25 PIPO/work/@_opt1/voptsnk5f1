@@ -1,0 +1,58 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\COMMON\questasim_10.0d\examples
+T_opt
+Z1 V;0Hh?mYTdzdlabjQ^?jCU3
+Z2 04 7 4 work pipo_tb fast 0
+Z3 =1-001ec9597825-674ed4fa-373-ba4
+Z4 o-quiet -auto_acc_if_foreign -work work +acc
+Z5 n@_opt
+Z6 OE;O;10.0d;49
+Z7 dD:\COMMON\questasim_10.0d\examples
+T_opt1
+Z8 VgCGojY2B?gd]gU=cog0Gb1
+Z9 04 4 4 work pipo fast 0
+R2
+Z10 =1-001ec9597825-674ed617-351-958
+R4
+Z11 n@_opt1
+R6
+R7
+vpipo
+Z12 Ik_G7VzF;?HB>l10FzSdRg2
+Z13 V^TkQOz?oXO=Rb56Wi8^c:0
+Z14 dD:\@MVL2024\VERILOG\EXP25 PIPO
+Z15 w1732881933
+Z16 8D:\@MVL2024\VERILOG\EXP25 PIPO\ppo.v
+Z17 FD:\@MVL2024\VERILOG\EXP25 PIPO\ppo.v
+L0 1
+Z18 OE;L;10.0d;49
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|-vopt|-nocovercells|D:\@MVL2024\VERILOG\EXP25 PIPO\ppo.v|
+Z20 !s102 -nocovercells
+Z21 o-work work -nocovercells -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z22 !s107 D:\@MVL2024\VERILOG\EXP25 PIPO\ppo.v|
+Z23 !s100 ljeRzi0^A_FkF0`5bdg2b1
+Z24 !s108 1732881947.754000
+!s85 0
+vpipo_tb
+Z25 IV`FTa8T841:1Hj<4L1V2A1
+Z26 V2Bh?h1O<ZBEj6LM_d1]Un1
+R14
+Z27 w1733219752
+Z28 8D:\@MVL2024\VERILOG\EXP25 PIPO\pipo_tb.v
+Z29 FD:\@MVL2024\VERILOG\EXP25 PIPO\pipo_tb.v
+L0 1
+R18
+r1
+31
+Z30 !s90 -reportprogress|300|-work|work|-vopt|-nocovercells|D:\@MVL2024\VERILOG\EXP25 PIPO\pipo_tb.v|
+R20
+R21
+Z31 !s107 D:\@MVL2024\VERILOG\EXP25 PIPO\pipo_tb.v|
+Z32 !s100 R>?_`mO^3Rj4<SK4?mQGj2
+!s85 0
+Z33 !s108 1733219766.536000

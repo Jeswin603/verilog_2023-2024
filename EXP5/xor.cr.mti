@@ -1,0 +1,15 @@
+D:/@MVL2024/VERILOG/EXP5/xor.v {1 {vlog -work work -vopt -nocovercells {D:\@MVL2024\VERILOG\EXP5\xor.v}
+QuestaSim vlog 10.0d Compiler 2011.10 Oct 30 2011
+-- Compiling module xor1
+
+Top level modules:
+	xor1
+
+} {} {}} D:/@MVL2024/VERILOG/EXP5/xortb.v {1 {vlog -work work -vopt -nocovercells {D:\@MVL2024\VERILOG\EXP5\xortb.v}
+QuestaSim vlog 10.0d Compiler 2011.10 Oct 30 2011
+-- Compiling module xor1
+
+Top level modules:
+	--none--
+
+} {} {}}

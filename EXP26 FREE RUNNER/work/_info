@@ -1,0 +1,57 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\COMMON\questasim_10.0d\examples
+T_opt
+Z1 VG>7LGD?8SKOki0`ZIZgi?1
+Z2 04 11 4 work free_runner fast 0
+Z3 =1-001ec9597825-67502da2-2d7-1c48
+Z4 o-quiet -auto_acc_if_foreign -work work +acc
+Z5 n@_opt
+Z6 OE;O;10.0d;49
+Z7 dD:\COMMON\questasim_10.0d\examples
+T_opt1
+Vc6@Q[?lI084aDSXH:5mNP2
+Z8 04 14 4 work free_runner_tb fast 0
+Z9 =1-001ec9597825-67503030-17e-1030
+R4
+Z10 n@_opt1
+R6
+R7
+vfree_runner
+Z11 IZ81BcU_3g`m>YLMz>ie281
+Z12 VmIlL^7WHMGO3LOa98eGIl1
+Z13 dD:\@MVL2024\VERILOG\EXP26 FREE RUNNER
+Z14 w1733308446
+Z15 8D:\@MVL2024\VERILOG\EXP26 FREE RUNNER\free_runner.v
+Z16 FD:\@MVL2024\VERILOG\EXP26 FREE RUNNER\free_runner.v
+L0 1
+Z17 OE;L;10.0d;49
+r1
+31
+Z18 !s102 -nocovercells
+Z19 o-work work -nocovercells -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z20 !s90 -reportprogress|300|-work|work|-vopt|-nocovercells|D:\@MVL2024\VERILOG\EXP26 FREE RUNNER\free_runner.v|
+Z21 !s100 zK>bjN2>RcNiN[0<C_a]?2
+Z22 !s108 1733308451.635000
+Z23 !s107 D:\@MVL2024\VERILOG\EXP26 FREE RUNNER\free_runner.v|
+!s85 0
+vfree_runner_tb
+Z24 IHKZd9iW9cHhQI30Wi4UZS0
+Z25 VkKB2aKCNCNXE;;aU1a7Qf2
+R13
+Z26 w1733308445
+Z27 8D:\@MVL2024\VERILOG\EXP26 FREE RUNNER\free_runner_tb.v
+Z28 FD:\@MVL2024\VERILOG\EXP26 FREE RUNNER\free_runner_tb.v
+L0 1
+R17
+r1
+31
+R18
+R19
+Z29 !s100 f?lHPcU46<1dTIR3BJX3Y3
+Z30 !s90 -reportprogress|300|-work|work|-vopt|-nocovercells|D:\@MVL2024\VERILOG\EXP26 FREE RUNNER\free_runner_tb.v|
+!s85 0
+Z31 !s108 1733308452.337000
+Z32 !s107 D:\@MVL2024\VERILOG\EXP26 FREE RUNNER\free_runner_tb.v|

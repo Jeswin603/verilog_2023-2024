@@ -1,0 +1,3 @@
+vsim -voptargs=+acc work.dfliptb
+add wave -r sim:/dfliptb/*
+run 500ns

@@ -1,0 +1,55 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\@MVL2024\VERILOG\EXP7
+T_opt
+Z1 VHhBcO3[TJ8:4kJoQGP1O@2
+Z2 04 7 4 work dfliptb fast 0
+Z3 =2-001ec9597825-67065db9-189-2b0
+Z4 o-quiet -auto_acc_if_foreign -work work +acc
+Z5 n@_opt
+Z6 OE;O;10.0d;49
+Z7 dD:\@MVL2024\VERILOG\EXP7
+T_opt1
+Z8 V@L8H24BlgNV7YJfHW>lPB0
+Z9 04 10 4 work dflipflop1 fast 0
+Z10 =1-001ec9597825-67065a9f-1f2-1a70
+R4
+Z11 n@_opt1
+R6
+R7
+vdflipflop1
+Z12 !s100 :<<hYPJLY4aG:4U]AMWKK3
+Z13 IX?`YizQ`jR:Jgo]6E72l<3
+Z14 V=9J0g:od``^BJCOUdWXFO3
+Z15 dD:\@MVL2024\VERILOG\EXP8
+Z16 w1728469411
+Z17 8d_flipflop.v
+Z18 Fd_flipflop.v
+L0 1
+Z19 OE;L;10.0d;49
+r1
+!s85 0
+31
+Z20 !s108 1728470625.858000
+Z21 !s107 dflipfloptb.v|d_flipflop.v|
+Z22 !s90 -reportprogress|300|d_flipflop.v|dflipfloptb.v|
+Z23 o-L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+vdfliptb
+Z24 !s100 l=MSEGW`3[XT[:0^:Pd9@2
+Z25 I7<Do@n`dcMd`f8VGWGmd_1
+Z26 VAON4ZOdDUL_g0nCHJFg640
+R15
+Z27 w1728469836
+Z28 8dflipfloptb.v
+Z29 Fdflipfloptb.v
+L0 1
+R19
+r1
+!s85 0
+31
+R20
+R21
+R22
+R23

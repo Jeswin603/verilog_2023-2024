@@ -1,0 +1,26 @@
+module sequence_detector(
+    input clk,
+    input reset,
+    input in,
+    output wire out
+);
+
+reg [1:0] state;
+parameter S0 = 2'b00, S1 = 2'b01, S2 = 2'b10, S3 = 2'b11;
+
+always @(posedge clk or posedge reset) begin
+    if (reset)
+        state <= S0;
+    else begin
+        case (state)
+            S0: state <= (in == 1) ? S1 : S0;
+            S1: state <= (in == 0) ? S2 : S1;
+            S2: state <= (in == 1) ? S3 : S0;
+            S3: state <= (in == 0) ? S0 : S1;
+        endcase
+    end
+end
+
+assign out = (state == S3 && in == 0);
+
+endmodule

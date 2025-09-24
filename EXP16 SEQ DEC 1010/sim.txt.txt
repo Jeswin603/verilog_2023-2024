@@ -1,0 +1,3 @@
+vsim -voptargs=+acc work.tb_sequence_detector
+add wave -r sim:/tb_sequence_detector/* 
+run 100ns

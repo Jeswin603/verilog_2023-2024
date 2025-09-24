@@ -1,0 +1,8 @@
+{D:/@MVL2024/VERILOG/EXP23 BINARY CONTER/bc.v} {1 {vlog -work work -vopt -nocovercells {D:\@MVL2024\VERILOG\EXP23 BINARY CONTER\bc.v}
+QuestaSim vlog 10.0d Compiler 2011.10 Oct 30 2011
+-- Compiling module un_counter
+
+Top level modules:
+	un_counter
+
+} {} {}}

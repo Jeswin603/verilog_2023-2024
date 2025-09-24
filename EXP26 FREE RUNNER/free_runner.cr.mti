@@ -1,0 +1,15 @@
+{D:/@MVL2024/VERILOG/EXP26 FREE RUNNER/free_runner.v} {1 {vlog -work work -vopt -nocovercells {D:\@MVL2024\VERILOG\EXP26 FREE RUNNER\free_runner.v}
+QuestaSim vlog 10.0d Compiler 2011.10 Oct 30 2011
+-- Compiling module free_runner
+
+Top level modules:
+	free_runner
+
+} {} {}} {D:/@MVL2024/VERILOG/EXP26 FREE RUNNER/free_runner_tb.v} {1 {vlog -work work -vopt -nocovercells {D:\@MVL2024\VERILOG\EXP26 FREE RUNNER\free_runner_tb.v}
+QuestaSim vlog 10.0d Compiler 2011.10 Oct 30 2011
+-- Compiling module free_runner_tb
+
+Top level modules:
+	free_runner_tb
+
+} {} {}}

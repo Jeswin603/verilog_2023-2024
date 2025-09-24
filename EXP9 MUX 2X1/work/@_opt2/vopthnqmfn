@@ -1,0 +1,67 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\COMMON\questasim_10.0d\examples
+T_opt
+Z1 V9S6W>g5o;gHK:f==7[M1=3
+Z2 04 6 7 work twomux fast__1 0
+Z3 04 8 4 work twomuxtb fast 0
+Z4 =1-001ec9597825-670e3f03-a-177c
+Z5 o-quiet -auto_acc_if_foreign -work work
+Z6 n@_opt
+Z7 OE;O;10.0d;49
+Z8 dD:\COMMON\questasim_10.0d\examples
+T_opt1
+Z9 V4V0Af`C]jUEzVn7_oh?0X2
+R3
+Z10 =1-001ec9597825-670e4210-220-11e8
+R5
+Z11 n@_opt1
+R7
+R8
+T_opt2
+Z12 ViEiM7j:RCeRHHN?Gz8ma;3
+Z13 04 6 4 work twomux fast 0
+R3
+Z14 =1-001ec9597825-670e4eb0-2a9-12ac
+Z15 o-quiet -auto_acc_if_foreign -work work +acc
+Z16 n@_opt2
+R7
+R8
+vtwomux
+Z17 IbKLo2DU81QJJdZgZD]I@N1
+Z18 VXf=J@GHEn8WLS7bO9T1l53
+Z19 dD:\@MVL2024\VERILOG\EXP9 MUX 2X1
+Z20 w1728985723
+Z21 8D:/@MVL2024/VERILOG/EXP9 MUX 2X1/mux2x1.v
+Z22 FD:/@MVL2024/VERILOG/EXP9 MUX 2X1/mux2x1.v
+L0 1
+Z23 OE;L;10.0d;49
+r1
+31
+Z24 !s102 -nocovercells
+Z25 o-work work -nocovercells -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z26 !s100 L3@9IDA;R=MGX54JG=TnF2
+Z27 !s90 -reportprogress|300|-work|work|-vopt|-nocovercells|D:/@MVL2024/VERILOG/EXP9 MUX 2X1/mux2x1.v|
+Z28 !s108 1728987583.522000
+Z29 !s107 D:/@MVL2024/VERILOG/EXP9 MUX 2X1/mux2x1.v|
+!s85 0
+vtwomuxtb
+Z30 IzRQC>G9JTlFS:]OJbRIBB3
+Z31 V8KcFfAI_BYSX=zOfT19GH3
+R19
+Z32 w1728990861
+Z33 8D:/@MVL2024/VERILOG/EXP9 MUX 2X1/twomuxtb.v
+Z34 FD:/@MVL2024/VERILOG/EXP9 MUX 2X1/twomuxtb.v
+L0 1
+R23
+r1
+31
+Z35 !s90 -reportprogress|300|-work|work|-vopt|-nocovercells|D:/@MVL2024/VERILOG/EXP9 MUX 2X1/twomuxtb.v|
+R24
+R25
+Z36 !s107 D:/@MVL2024/VERILOG/EXP9 MUX 2X1/twomuxtb.v|
+Z37 !s100 >3XaJ2jdBP3Uc^:V9i_?K0
+!s85 0
+Z38 !s108 1728990862.033000

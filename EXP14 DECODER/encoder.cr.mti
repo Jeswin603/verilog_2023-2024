@@ -1,0 +1,15 @@
+{D:/@MVL2024/VERILOG/EXP14 DECODER/decodertwotb.v} {1 {vlog -work work -vopt -nocovercells {D:/@MVL2024/VERILOG/EXP14 DECODER/decodertwotb.v}
+QuestaSim vlog 10.0d Compiler 2011.10 Oct 30 2011
+-- Compiling module decodertwo_tb
+
+Top level modules:
+	decodertwo_tb
+
+} {} {}} {D:/@MVL2024/VERILOG/EXP14 DECODER/decoder.v} {1 {vlog -work work -vopt -nocovercells {D:/@MVL2024/VERILOG/EXP14 DECODER/decoder.v}
+QuestaSim vlog 10.0d Compiler 2011.10 Oct 30 2011
+-- Compiling module decodertwo
+
+Top level modules:
+	decodertwo
+
+} {} {}}

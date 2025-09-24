@@ -1,0 +1,15 @@
+D:/@MVL2024/VERILOG/EXP3/and.v {1 {vlog -work work -vopt -nocovercells {D:\@MVL2024\VERILOG\EXP3\and.v}
+QuestaSim vlog 10.0d Compiler 2011.10 Oct 30 2011
+-- Compiling module and1
+
+Top level modules:
+	and1
+
+} {} {}} D:/@MVL2024/VERILOG/EXP3/andtb.v {1 {vlog -work work -vopt -nocovercells {D:\@MVL2024\VERILOG\EXP3\andtb.v}
+QuestaSim vlog 10.0d Compiler 2011.10 Oct 30 2011
+-- Compiling module and1tb
+
+Top level modules:
+	and1tb
+
+} {} {}}

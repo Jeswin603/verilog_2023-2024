@@ -1,0 +1,49 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\COMMON\questasim_10.0d\examples
+T_opt
+V307=PVOH`3Z?V@YSe;z1]0
+04 20 4 work tb_sequence_detector fast 0
+Z1 =1-001ec9597825-672a094a-5a-fac
+Z2 o-quiet -auto_acc_if_foreign -work work +acc
+Z3 n@_opt
+Z4 OE;O;10.0d;49
+Z5 dD:\COMMON\questasim_10.0d\examples
+vsequence_detector
+Z6 IH3eMlV8dNiI6o6Cn`LmE]3
+Z7 V7YKNZ>V6Pf<6BGQ]CKJeR0
+Z8 dD:\@MVL2024\VERILOG\EXP17 SEQ DEC1011
+Z9 w1730808071
+Z10 8D:/@MVL2024/VERILOG/EXP17 SEQ DEC1011/dect.v
+Z11 FD:/@MVL2024/VERILOG/EXP17 SEQ DEC1011/dect.v
+L0 2
+Z12 OE;L;10.0d;49
+r1
+31
+Z13 !s102 -nocovercells
+Z14 o-work work -nocovercells -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z15 !s100 =>?eg@0n0d>ZjUTB1W7k;3
+Z16 !s90 -reportprogress|300|-work|work|-vopt|-nocovercells|D:/@MVL2024/VERILOG/EXP17 SEQ DEC1011/dect.v|
+Z17 !s108 1730808119.885000
+Z18 !s107 D:/@MVL2024/VERILOG/EXP17 SEQ DEC1011/dect.v|
+!s85 0
+vtb_sequence_detector
+Z19 IVzGVjNcCohCIPhUYC;T2l0
+Z20 VLVX9`=J1W@JIm=W@dVOlh0
+R8
+Z21 w1730808113
+Z22 8D:/@MVL2024/VERILOG/EXP17 SEQ DEC1011/decttb.v
+Z23 FD:/@MVL2024/VERILOG/EXP17 SEQ DEC1011/decttb.v
+L0 1
+R12
+r1
+31
+R13
+R14
+Z24 !s90 -reportprogress|300|-work|work|-vopt|-nocovercells|D:/@MVL2024/VERILOG/EXP17 SEQ DEC1011/decttb.v|
+Z25 !s100 c2RFfl2_0`_AELoe=O@Ka1
+!s85 0
+Z26 !s108 1730808120.415000
+Z27 !s107 D:/@MVL2024/VERILOG/EXP17 SEQ DEC1011/decttb.v|

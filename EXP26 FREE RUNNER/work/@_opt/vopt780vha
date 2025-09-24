@@ -1,0 +1,31 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\COMMON\questasim_10.0d\examples
+T_opt
+Z1 VG>7LGD?8SKOki0`ZIZgi?1
+Z2 04 11 4 work free_runner fast 0
+Z3 =1-001ec9597825-67502da2-2d7-1c48
+Z4 o-quiet -auto_acc_if_foreign -work work +acc
+Z5 n@_opt
+Z6 OE;O;10.0d;49
+Z7 dD:\COMMON\questasim_10.0d\examples
+vfree_runner
+Z8 IG;Pfj[>JeL?A1U42[=[`?3
+Z9 VikehnW9j6?^kU9m57TCEz2
+Z10 dD:\@MVL2024\VERILOG\EXP26 FREE RUNNER
+Z11 w1733307765
+Z12 8D:\@MVL2024\VERILOG\EXP26 FREE RUNNER\free_runner_tb.v
+Z13 FD:\@MVL2024\VERILOG\EXP26 FREE RUNNER\free_runner_tb.v
+L0 1
+Z14 OE;L;10.0d;49
+r1
+31
+Z15 o-work work -nocovercells -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z16 !s102 -nocovercells
+Z17 !s100 ^@2IUZ4SH`Y:HndhA`dMY0
+!s85 0
+Z18 !s108 1733307792.141000
+Z19 !s107 D:\@MVL2024\VERILOG\EXP26 FREE RUNNER\free_runner_tb.v|
+Z20 !s90 -reportprogress|300|-work|work|-vopt|-nocovercells|D:\@MVL2024\VERILOG\EXP26 FREE RUNNER\free_runner_tb.v|

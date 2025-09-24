@@ -1,0 +1,66 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\COMMON\questasim_10.0d\examples
+T_opt
+V;doeL_l8zikAMS7WVJHMo1
+Z1 04 10 4 work counter_up fast 0
+Z2 =1-001ec9597825-672b4e5c-1c-1fd4
+Z3 o-quiet -auto_acc_if_foreign -work work
+Z4 n@_opt
+Z5 OE;O;10.0d;49
+Z6 dD:\COMMON\questasim_10.0d\examples
+T_opt1
+Z7 V03WKZVEMN[P8Rz5?ck4lF3
+R1
+Z8 04 13 4 work counter_up_tb fast 0
+Z9 =1-001ec9597825-672b47fd-190-11a8
+Z10 o-quiet -auto_acc_if_foreign -work work +acc
+Z11 n@_opt1
+R5
+R6
+T_opt2
+Z12 VYTgeS`^Ni<K_f_dQ@SJ[]2
+R8
+Z13 =1-001ec9597825-672b4c39-67-1b78
+R10
+Z14 n@_opt2
+R5
+R6
+vcounter_up
+Z15 I_dBEHKmA?5YI<z_:1neVf0
+Z16 V`04D9Aj?RH0nSibMb=NJQ2
+Z17 dD:\@MVL2024\VERILOG\EXP19 COUNTER
+Z18 w1730889198
+Z19 8D:\@MVL2024\VERILOG\EXP19 COUNTER\counter.v
+Z20 FD:\@MVL2024\VERILOG\EXP19 COUNTER\counter.v
+L0 2
+Z21 OE;L;10.0d;49
+r1
+31
+Z22 !s102 -nocovercells
+Z23 o-work work -nocovercells -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z24 !s100 b>dC0QMBWNo_na]m5lIJD2
+Z25 !s90 -reportprogress|300|-work|work|-vopt|-nocovercells|D:\@MVL2024\VERILOG\EXP19 COUNTER\counter.v|
+Z26 !s108 1730890787.123000
+Z27 !s107 D:\@MVL2024\VERILOG\EXP19 COUNTER\counter.v|
+!s85 0
+vcounter_up_tb
+Z28 I3coYU`0K=V9NScBC>Zbz90
+Z29 VThczg6h6?90c1C??gZ;`63
+R17
+Z30 w1730890779
+Z31 8D:\@MVL2024\VERILOG\EXP19 COUNTER\countertb.v
+Z32 FD:\@MVL2024\VERILOG\EXP19 COUNTER\countertb.v
+L0 2
+R21
+r1
+31
+R22
+R23
+Z33 !s90 -reportprogress|300|-work|work|-vopt|-nocovercells|D:\@MVL2024\VERILOG\EXP19 COUNTER\countertb.v|
+Z34 !s100 9gFfJKF=]_[G4j^l>_j551
+Z35 !s108 1730890787.778000
+Z36 !s107 D:\@MVL2024\VERILOG\EXP19 COUNTER\countertb.v|
+!s85 0

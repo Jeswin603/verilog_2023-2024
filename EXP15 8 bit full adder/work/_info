@@ -1,0 +1,77 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\@MVL2024\VERILOG\EXP14 DECODER
+T_opt
+Z1 V`YPnEJ1oiD4@Pn:ZCEmN^3
+Z2 04 3 4 work add fast 0
+Z3 04 7 4 work eightfa fast 0
+Z4 04 10 4 work eightfa_tb fast 0
+Z5 =1-001ec9597825-6719f6ba-1b6-10c8
+Z6 o-quiet -auto_acc_if_foreign -work work +acc
+Z7 n@_opt
+Z8 OE;O;10.0d;49
+Z9 dD:\@MVL2024\VERILOG\EXP14 DECODER
+T_opt1
+VU>cBL^UFP6TZh_[Lebm0T0
+R4
+Z10 =1-001ec9597825-6719f7b0-33f-42c
+R6
+Z11 n@_opt1
+R8
+R9
+vadd
+Z12 IMjGGGH<nd>N7[nBI@kkYz0
+Z13 VF5n@TXb2Dc6ADkLeADAdA0
+Z14 dD:\@MVL2024\VERILOG\EXP15 8 bit full adder
+Z15 w1729753745
+Z16 8D:/@MVL2024/VERILOG/EXP15 8 bit full adder/singleadd.v
+Z17 FD:/@MVL2024/VERILOG/EXP15 8 bit full adder/singleadd.v
+L0 1
+Z18 OE;L;10.0d;49
+r1
+31
+Z19 !s102 -nocovercells
+Z20 o-work work -nocovercells -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z21 !s100 :oeP6BFaaWY6W9;<42Y`;1
+Z22 !s90 -reportprogress|300|-work|work|-vopt|-nocovercells|D:/@MVL2024/VERILOG/EXP15 8 bit full adder/singleadd.v|
+Z23 !s108 1729755039.515000
+Z24 !s107 D:/@MVL2024/VERILOG/EXP15 8 bit full adder/singleadd.v|
+!s85 0
+veightfa
+Z25 Iz=UnRfc>F69zD0fnBK4^91
+Z26 VMRn[_HGhCePNI0BWTkN4U1
+R14
+Z27 w1729753823
+Z28 8D:/@MVL2024/VERILOG/EXP15 8 bit full adder/eightfa.v
+Z29 FD:/@MVL2024/VERILOG/EXP15 8 bit full adder/eightfa.v
+L0 1
+R18
+r1
+31
+R19
+R20
+Z30 !s100 c@@JFgC2=CO`733XIWdTc0
+Z31 !s90 -reportprogress|300|-work|work|-vopt|-nocovercells|D:/@MVL2024/VERILOG/EXP15 8 bit full adder/eightfa.v|
+Z32 !s108 1729755039.421000
+Z33 !s107 D:/@MVL2024/VERILOG/EXP15 8 bit full adder/eightfa.v|
+!s85 0
+veightfa_tb
+Z34 IaJzbjC:MgAA>8^XXZ=`@^3
+Z35 Vk_YIKX@CTc[D1dKUCRGG>1
+R14
+Z36 w1729755040
+Z37 8D:/@MVL2024/VERILOG/EXP15 8 bit full adder/eightfa_tb.v
+Z38 FD:/@MVL2024/VERILOG/EXP15 8 bit full adder/eightfa_tb.v
+L0 1
+R18
+r1
+31
+R19
+R20
+Z39 !s90 -reportprogress|300|-work|work|-vopt|-nocovercells|D:/@MVL2024/VERILOG/EXP15 8 bit full adder/eightfa_tb.v|
+Z40 !s100 [X::eVUkcLzb0dMnZeBaR0
+!s85 0
+Z41 !s108 1729755041.028000
+Z42 !s107 D:/@MVL2024/VERILOG/EXP15 8 bit full adder/eightfa_tb.v|

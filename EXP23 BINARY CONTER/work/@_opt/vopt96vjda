@@ -1,0 +1,50 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\COMMON\questasim_10.0d\examples
+T_opt
+Z1 Vhg>EQdedb^K01ULLacH3f3
+Z2 04 10 4 work counter_tb fast 0
+Z3 04 10 4 work un_counter fast 0
+Z4 =1-001ec9597825-6746e487-158-1530
+Z5 o-quiet -auto_acc_if_foreign -work work +acc
+Z6 n@_opt
+Z7 OE;O;10.0d;49
+Z8 dD:\COMMON\questasim_10.0d\examples
+vcounter_tb
+Z9 IWXYI@`dQP1EkN]QU?mWlA2
+Z10 VN6X[[7nWg]oz4[ZCKXDXe0
+Z11 dD:\@MVL2024\VERILOG\EXP23 BINARY CONTER
+Z12 w1732699256
+Z13 8D:\@MVL2024\VERILOG\EXP23 BINARY CONTER\bc_tb.v
+Z14 FD:\@MVL2024\VERILOG\EXP23 BINARY CONTER\bc_tb.v
+L0 2
+Z15 OE;L;10.0d;49
+r1
+31
+Z16 !s90 -reportprogress|300|-work|work|-vopt|-nocovercells|D:\@MVL2024\VERILOG\EXP23 BINARY CONTER\bc_tb.v|
+Z17 !s102 -nocovercells
+Z18 o-work work -nocovercells -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z19 !s107 D:\@MVL2024\VERILOG\EXP23 BINARY CONTER\bc_tb.v|
+Z20 !s100 A2IN_PZBKMcHE7o=]2[_C3
+!s85 0
+Z21 !s108 1732699261.019000
+vun_counter
+Z22 IL_hjnW8N@hQAjZ:bMNS2m2
+Z23 VX<Uf`GTOZTcLJCF:iOWgm1
+R11
+Z24 w1732698221
+Z25 8D:\@MVL2024\VERILOG\EXP23 BINARY CONTER\bc.v
+Z26 FD:\@MVL2024\VERILOG\EXP23 BINARY CONTER\bc.v
+L0 1
+R15
+r1
+31
+R17
+R18
+Z27 !s100 CP=2D?IWa9j4iD29E`^eJ0
+Z28 !s90 -reportprogress|300|-work|work|-vopt|-nocovercells|D:\@MVL2024\VERILOG\EXP23 BINARY CONTER\bc.v|
+Z29 !s108 1732698687.546000
+Z30 !s107 D:\@MVL2024\VERILOG\EXP23 BINARY CONTER\bc.v|
+!s85 0

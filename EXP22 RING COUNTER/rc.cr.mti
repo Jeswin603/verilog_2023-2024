@@ -1,0 +1,15 @@
+{D:/@MVL2024/VERILOG/EXP22 RING COUNTER/rc_tb.v} {1 {vlog -work work -vopt -nocovercells {D:\@MVL2024\VERILOG\EXP22 RING COUNTER\rc_tb.v}
+QuestaSim vlog 10.0d Compiler 2011.10 Oct 30 2011
+-- Compiling module rc_tb
+
+Top level modules:
+	rc_tb
+
+} {} {}} {D:/@MVL2024/VERILOG/EXP22 RING COUNTER/ringc.v} {1 {vlog -work work -vopt -nocovercells {D:\@MVL2024\VERILOG\EXP22 RING COUNTER\ringc.v}
+QuestaSim vlog 10.0d Compiler 2011.10 Oct 30 2011
+-- Compiling module rc
+
+Top level modules:
+	rc
+
+} {} {}}

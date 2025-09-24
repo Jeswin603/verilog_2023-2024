@@ -1,0 +1,15 @@
+{D:/@MVL2024/VERILOG/EXP10 MUX 4X1/FOURMUX.v} {1 {vlog -work work -vopt -nocovercells {D:/@MVL2024/VERILOG/EXP10 MUX 4X1/FOURMUX.v}
+QuestaSim vlog 10.0d Compiler 2011.10 Oct 30 2011
+-- Compiling module fourmux
+
+Top level modules:
+	fourmux
+
+} {} {}} {D:/@MVL2024/VERILOG/EXP10 MUX 4X1/fourmuxtb.v} {1 {vlog -work work -vopt -nocovercells {D:/@MVL2024/VERILOG/EXP10 MUX 4X1/fourmuxtb.v}
+QuestaSim vlog 10.0d Compiler 2011.10 Oct 30 2011
+-- Compiling module fourmuxtb
+
+Top level modules:
+	fourmuxtb
+
+} {} {}}

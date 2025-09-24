@@ -1,0 +1,3 @@
+vlog d_flipflop.v dflipfloptb.v
+restart
+run 500ns

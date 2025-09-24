@@ -1,0 +1,50 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\COMMON\questasim_10.0d\examples
+T_opt
+Z1 VkzAI2ioiKJ<db3X3Ik>aj0
+Z2 04 15 4 work jhonson_counter fast 0
+Z3 04 18 4 work jhonson_counter_tb fast 0
+Z4 =1-001ec9597825-673dbe47-11e-1e74
+Z5 o-quiet -auto_acc_if_foreign -work work +acc
+Z6 n@_opt
+Z7 OE;O;10.0d;49
+Z8 dD:\COMMON\questasim_10.0d\examples
+vjhonson_counter
+Z9 IAm4eFCSabFH0I=mPSlPB40
+Z10 Ve:hgVgTO8@0Y0G7:EZS_e1
+Z11 dD:\@MVL2024\VERILOG\EXP21 JHONSON COUNTER
+Z12 w1732099505
+Z13 8D:\@MVL2024\VERILOG\EXP21 JHONSON COUNTER\johnson_counter.v
+Z14 FD:\@MVL2024\VERILOG\EXP21 JHONSON COUNTER\johnson_counter.v
+L0 2
+Z15 OE;L;10.0d;49
+r1
+31
+Z16 !s90 -reportprogress|300|-work|work|-vopt|-nocovercells|D:\@MVL2024\VERILOG\EXP21 JHONSON COUNTER\johnson_counter.v|
+Z17 !s102 -nocovercells
+Z18 o-work work -nocovercells -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z19 !s107 D:\@MVL2024\VERILOG\EXP21 JHONSON COUNTER\johnson_counter.v|
+Z20 !s100 zA[35`?b>774^WE=9?9h13
+Z21 !s108 1732099643.087000
+!s85 0
+vjhonson_counter_tb
+Z22 IJiBmf1h6W]z<HdAihN4N52
+Z23 V?4^b7ifeW0O2UciTiMnW`2
+R11
+Z24 w1732098652
+Z25 8D:\@MVL2024\VERILOG\EXP21 JHONSON COUNTER\johnsontb.v
+Z26 FD:\@MVL2024\VERILOG\EXP21 JHONSON COUNTER\johnsontb.v
+L0 1
+R15
+r1
+31
+Z27 !s90 -reportprogress|300|-work|work|-vopt|-nocovercells|D:\@MVL2024\VERILOG\EXP21 JHONSON COUNTER\johnsontb.v|
+R17
+R18
+Z28 !s107 D:\@MVL2024\VERILOG\EXP21 JHONSON COUNTER\johnsontb.v|
+Z29 !s100 =PmD>m^14UzcQE9n0AjlY1
+Z30 !s108 1732098674.365000
+!s85 0

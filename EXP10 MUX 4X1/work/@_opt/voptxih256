@@ -1,0 +1,49 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\@MVL2024\VERILOG\EXP9 MUX 2X1
+T_opt
+Z1 VjLIF=WRzz_8:70CK6O;A?1
+Z2 04 9 4 work fourmuxtb fast 0
+Z3 =1-001ec9597825-670e4c72-e8-e60
+Z4 o-quiet -auto_acc_if_foreign -work work +acc
+Z5 n@_opt
+Z6 OE;O;10.0d;49
+Z7 dD:\@MVL2024\VERILOG\EXP9 MUX 2X1
+vfourmux
+Z8 Ikg42XBbgjNdcLjG7`_YmJ3
+Z9 V^]TLkYZh?eW0C57IRiLZi3
+Z10 dD:\@MVL2024\VERILOG\EXP10 MUX 4X1
+Z11 w1728990211
+Z12 8D:/@MVL2024/VERILOG/EXP10 MUX 4X1/FOURMUX.v
+Z13 FD:/@MVL2024/VERILOG/EXP10 MUX 4X1/FOURMUX.v
+L0 1
+Z14 OE;L;10.0d;49
+r1
+31
+Z15 !s102 -nocovercells
+Z16 o-work work -nocovercells -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z17 !s100 I7lY4ZDe6:fhMK@h[19503
+Z18 !s90 -reportprogress|300|-work|work|-vopt|-nocovercells|D:/@MVL2024/VERILOG/EXP10 MUX 4X1/FOURMUX.v|
+Z19 !s108 1728990285.049000
+Z20 !s107 D:/@MVL2024/VERILOG/EXP10 MUX 4X1/FOURMUX.v|
+!s85 0
+vfourmuxtb
+Z21 IY[G3J]KnLcR2zfJD8RRWm2
+Z22 VFdOig=F2ohNbMi;5@i]112
+R10
+Z23 w1728990289
+Z24 8D:/@MVL2024/VERILOG/EXP10 MUX 4X1/fourmuxtb.v
+Z25 FD:/@MVL2024/VERILOG/EXP10 MUX 4X1/fourmuxtb.v
+L0 2
+R14
+r1
+31
+R15
+R16
+Z26 !s100 ?XOK<YX<mjdL[nh:AAP6Q1
+!s85 0
+Z27 !s108 1728990290.015000
+Z28 !s107 D:/@MVL2024/VERILOG/EXP10 MUX 4X1/fourmuxtb.v|
+Z29 !s90 -reportprogress|300|-work|work|-vopt|-nocovercells|D:/@MVL2024/VERILOG/EXP10 MUX 4X1/fourmuxtb.v|

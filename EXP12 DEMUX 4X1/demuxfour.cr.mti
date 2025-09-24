@@ -1,0 +1,8 @@
+{D:/@MVL2024/VERILOG/EXP12 DEMUX 4X1/demuxfour.v} {1 {vlog -work work -vopt -nocovercells {D:\@MVL2024\VERILOG\EXP12 DEMUX 4X1\demuxfour.v}
+QuestaSim vlog 10.0d Compiler 2011.10 Oct 30 2011
+-- Compiling module demux
+
+Top level modules:
+	demux
+
+} {} {}}

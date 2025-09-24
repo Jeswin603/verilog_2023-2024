@@ -1,0 +1,69 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\@MVL2024\VERILOG\EXP14 DECODER
+T_opt
+Z1 V`YPnEJ1oiD4@Pn:ZCEmN^3
+Z2 04 3 4 work add fast 0
+Z3 04 7 4 work eightfa fast 0
+Z4 04 10 4 work eightfa_tb fast 0
+Z5 =1-001ec9597825-6719f6ba-1b6-10c8
+Z6 o-quiet -auto_acc_if_foreign -work work +acc
+Z7 n@_opt
+Z8 OE;O;10.0d;49
+Z9 dD:\@MVL2024\VERILOG\EXP14 DECODER
+vadd
+Z10 IMjGGGH<nd>N7[nBI@kkYz0
+Z11 VF5n@TXb2Dc6ADkLeADAdA0
+Z12 dD:\@MVL2024\VERILOG\EXP15 8 bit full adder
+Z13 w1729753745
+Z14 8D:/@MVL2024/VERILOG/EXP15 8 bit full adder/singleadd.v
+Z15 FD:/@MVL2024/VERILOG/EXP15 8 bit full adder/singleadd.v
+L0 1
+Z16 OE;L;10.0d;49
+r1
+31
+Z17 !s102 -nocovercells
+Z18 o-work work -nocovercells -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z19 !s100 :oeP6BFaaWY6W9;<42Y`;1
+Z20 !s90 -reportprogress|300|-work|work|-vopt|-nocovercells|D:/@MVL2024/VERILOG/EXP15 8 bit full adder/singleadd.v|
+Z21 !s108 1729754796.813000
+Z22 !s107 D:/@MVL2024/VERILOG/EXP15 8 bit full adder/singleadd.v|
+!s85 0
+veightfa
+Z23 Iz=UnRfc>F69zD0fnBK4^91
+Z24 VMRn[_HGhCePNI0BWTkN4U1
+R12
+Z25 w1729753823
+Z26 8D:/@MVL2024/VERILOG/EXP15 8 bit full adder/eightfa.v
+Z27 FD:/@MVL2024/VERILOG/EXP15 8 bit full adder/eightfa.v
+L0 1
+R16
+r1
+31
+R17
+R18
+Z28 !s100 c@@JFgC2=CO`733XIWdTc0
+Z29 !s90 -reportprogress|300|-work|work|-vopt|-nocovercells|D:/@MVL2024/VERILOG/EXP15 8 bit full adder/eightfa.v|
+Z30 !s108 1729754796.626000
+Z31 !s107 D:/@MVL2024/VERILOG/EXP15 8 bit full adder/eightfa.v|
+!s85 0
+veightfa_tb
+Z32 I1OKXU]DPmii`o2fYjn[:a3
+Z33 Vk_YIKX@CTc[D1dKUCRGG>1
+R12
+Z34 w1729754797
+Z35 8D:/@MVL2024/VERILOG/EXP15 8 bit full adder/eightfa_tb.v
+Z36 FD:/@MVL2024/VERILOG/EXP15 8 bit full adder/eightfa_tb.v
+L0 1
+R16
+r1
+31
+R17
+R18
+Z37 !s90 -reportprogress|300|-work|work|-vopt|-nocovercells|D:/@MVL2024/VERILOG/EXP15 8 bit full adder/eightfa_tb.v|
+Z38 !s100 ]NR8c6SRJGPYECbgzHI[<0
+!s85 0
+Z39 !s108 1729754797.849000
+Z40 !s107 D:/@MVL2024/VERILOG/EXP15 8 bit full adder/eightfa_tb.v|

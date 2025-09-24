@@ -1,0 +1,58 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\COMMON\questasim_10.0d\examples
+T_opt
+Z1 Vd:68UXBQe6fV4<i80a>Kj0
+Z2 04 13 4 work decodertwo_tb fast 0
+Z3 =1-001ec9597825-6718ccac-13f-158
+Z4 o-quiet -auto_acc_if_foreign -work work +acc
+Z5 n@_opt
+Z6 OE;O;10.0d;49
+Z7 dD:\COMMON\questasim_10.0d\examples
+T_opt1
+Z8 V:ekPINfe6=QP>=8hWlmjJ1
+Z9 04 10 4 work decodertwo fast 0
+R2
+Z10 =1-001ec9597825-6718cd67-127-1478
+R4
+Z11 n@_opt1
+R6
+R7
+vdecodertwo
+Z12 IGA=nW:fOXD0H<LLGaj>a>0
+Z13 VU68:NPY<2ZM[azabVGc6B2
+Z14 dD:\@MVL2024\VERILOG\EXP14 DECODER
+Z15 w1729677454
+Z16 8D:/@MVL2024/VERILOG/EXP14 DECODER/decoder.v
+Z17 FD:/@MVL2024/VERILOG/EXP14 DECODER/decoder.v
+L0 1
+Z18 OE;L;10.0d;49
+r1
+31
+Z19 !s102 -nocovercells
+Z20 o-work work -nocovercells -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z21 !s100 5@h9KUYNc0UG>7:0_l9>W3
+Z22 !s90 -reportprogress|300|-work|work|-vopt|-nocovercells|D:/@MVL2024/VERILOG/EXP14 DECODER/decoder.v|
+Z23 !s108 1729678479.725000
+Z24 !s107 D:/@MVL2024/VERILOG/EXP14 DECODER/decoder.v|
+!s85 0
+vdecodertwo_tb
+Z25 I4TzN^PBV<LQDXlN5VK4?61
+Z26 VQz77B]UhZ_A0DgY4WDP4Q2
+R14
+Z27 w1729678460
+Z28 8D:/@MVL2024/VERILOG/EXP14 DECODER/decodertwotb.v
+Z29 FD:/@MVL2024/VERILOG/EXP14 DECODER/decodertwotb.v
+L0 1
+R18
+r1
+31
+R19
+R20
+Z30 !s100 KdW41@3lcnfgU4VC:1o482
+Z31 !s90 -reportprogress|300|-work|work|-vopt|-nocovercells|D:/@MVL2024/VERILOG/EXP14 DECODER/decodertwotb.v|
+Z32 !s108 1729678480.021000
+Z33 !s107 D:/@MVL2024/VERILOG/EXP14 DECODER/decodertwotb.v|
+!s85 0

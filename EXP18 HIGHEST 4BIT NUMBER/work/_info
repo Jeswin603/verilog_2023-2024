@@ -1,0 +1,50 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\COMMON\questasim_10.0d\examples
+T_opt1
+VzEfEfDglI_3Sk[_[MD<4m2
+Z1 04 14 4 work highest_number fast 0
+Z2 04 17 4 work highest_number_tb fast 0
+Z3 =1-001ec9597825-672b3e02-22d-1420
+Z4 o-quiet -auto_acc_if_foreign -work work +acc
+Z5 n@_opt1
+Z6 OE;O;10.0d;49
+Z7 dD:\COMMON\questasim_10.0d\examples
+vhighest_number
+Z8 InD^dV36R@L3>F=VkOAM_J3
+Z9 VZPRJc`2iCdXmZIR6mAOCW2
+Z10 dD:\@MVL2024\VERILOG\EXP18 HIGHEST 4BIT NUMBER
+Z11 w1730887063
+Z12 8D:/@MVL2024/VERILOG/EXP18 HIGHEST 4BIT NUMBER/fourbit.v
+Z13 FD:/@MVL2024/VERILOG/EXP18 HIGHEST 4BIT NUMBER/fourbit.v
+L0 1
+Z14 OE;L;10.0d;49
+r1
+31
+Z15 !s102 -nocovercells
+Z16 o-work work -nocovercells -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z17 !s100 I3jbQobBULde8RXXik4fT3
+Z18 !s90 -reportprogress|300|-work|work|-vopt|-nocovercells|D:/@MVL2024/VERILOG/EXP18 HIGHEST 4BIT NUMBER/fourbit.v|
+Z19 !s108 1730887147.529000
+Z20 !s107 D:/@MVL2024/VERILOG/EXP18 HIGHEST 4BIT NUMBER/fourbit.v|
+!s85 0
+vhighest_number_tb
+Z21 Ih@_2gYdj<52LJWkih[=`Z3
+Z22 VN5OdGZGkWPZIVQ<nzQMD?2
+R10
+Z23 w1730887142
+Z24 8D:\@MVL2024\VERILOG\EXP18 HIGHEST 4BIT NUMBER\tb.v
+Z25 FD:\@MVL2024\VERILOG\EXP18 HIGHEST 4BIT NUMBER\tb.v
+L0 2
+R14
+r1
+31
+R15
+R16
+Z26 !s90 -reportprogress|300|-work|work|-vopt|-nocovercells|D:\@MVL2024\VERILOG\EXP18 HIGHEST 4BIT NUMBER\tb.v|
+Z27 !s100 RJ1gk>Ieod0HRoSeMXZgb3
+!s85 0
+Z28 !s108 1730887148.140000
+Z29 !s107 D:\@MVL2024\VERILOG\EXP18 HIGHEST 4BIT NUMBER\tb.v|

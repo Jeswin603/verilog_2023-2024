@@ -1,0 +1,16 @@
+module eightfa_tb;
+  reg[7:0]a,b;
+  reg cin;
+  wire [7:0] sum;
+  wire cout;
+  
+  eightfa uut(.a(a),.b(b),.cin(cin),.cout(cout));
+  initial begin 
+  a=8'b00000000;b=8'b00000001;cin=1'b0;
+  #10;
+  a=8'b00000000;b=8'b00000001;cin=1'b1;
+  #10;
+end
+endmodule
+   
+

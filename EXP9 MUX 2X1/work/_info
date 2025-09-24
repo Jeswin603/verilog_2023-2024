@@ -1,0 +1,84 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\COMMON\questasim_10.0d\examples
+T_opt
+Z1 VYihn[G21mAddOm@m^G`zd3
+Z2 04 8 4 work twomuxtb fast 0
+Z3 =1-001ec9597825-671a36f8-4b-844
+Z4 o-quiet -auto_acc_if_foreign -work work +acc
+Z5 n@_opt
+Z6 OE;O;10.0d;49
+Z7 dD:\COMMON\questasim_10.0d\examples
+T_opt1
+Z8 V4V0Af`C]jUEzVn7_oh?0X2
+R2
+Z9 =1-001ec9597825-670e4210-220-11e8
+Z10 o-quiet -auto_acc_if_foreign -work work
+Z11 n@_opt1
+R6
+R7
+T_opt2
+Z12 ViEiM7j:RCeRHHN?Gz8ma;3
+Z13 04 6 4 work twomux fast 0
+R2
+Z14 =1-001ec9597825-670e4eb0-2a9-12ac
+R4
+Z15 n@_opt2
+R6
+R7
+vtwomux
+Z16 !s100 L3@9IDA;R=MGX54JG=TnF2
+Z17 IbKLo2DU81QJJdZgZD]I@N1
+Z18 VXf=J@GHEn8WLS7bO9T1l53
+Z19 dD:\@MVL2024\VERILOG\EXP9 MUX 2X1
+Z20 w1728985723
+Z21 8D:\@MVL2024\VERILOG\EXP9 MUX 2X1\mux2x1.v
+Z22 FD:\@MVL2024\VERILOG\EXP9 MUX 2X1\mux2x1.v
+L0 1
+Z23 OE;L;10.0d;49
+r1
+31
+Z24 !s90 -reportprogress|300|-work|work|-vopt|-nocovercells|D:\@MVL2024\VERILOG\EXP9 MUX 2X1\mux2x1.v|
+Z25 !s102 -nocovercells
+Z26 o-work work -nocovercells -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s85 0
+Z27 !s108 1729771717.153000
+Z28 !s107 D:\@MVL2024\VERILOG\EXP9 MUX 2X1\mux2x1.v|
+vtwomux_tb
+!s100 z5mbEDC`eIIE303d]<am03
+I^I`V1D4iAgj^^^KVS;ZKU3
+Z29 ViWX5]MNbI`QLSbJ>2cj0a2
+R19
+w1729771710
+Z30 8D:\@MVL2024\VERILOG\EXP9 MUX 2X1\twomuxtb.v
+Z31 FD:\@MVL2024\VERILOG\EXP9 MUX 2X1\twomuxtb.v
+L0 1
+R23
+r1
+!s85 0
+31
+!s108 1729771717.794000
+!s107 D:\@MVL2024\VERILOG\EXP9 MUX 2X1\twomuxtb.v|
+Z32 !s90 -reportprogress|300|-work|work|-vopt|-nocovercells|D:\@MVL2024\VERILOG\EXP9 MUX 2X1\twomuxtb.v|
+R25
+R26
+vtwomuxtb
+Z33 IzRQC>G9JTlFS:]OJbRIBB3
+Z34 V8KcFfAI_BYSX=zOfT19GH3
+R19
+Z35 w1728990861
+Z36 8D:/@MVL2024/VERILOG/EXP9 MUX 2X1/twomuxtb.v
+Z37 FD:/@MVL2024/VERILOG/EXP9 MUX 2X1/twomuxtb.v
+L0 1
+R23
+r1
+31
+R25
+R26
+Z38 !s90 -reportprogress|300|-work|work|-vopt|-nocovercells|D:/@MVL2024/VERILOG/EXP9 MUX 2X1/twomuxtb.v|
+Z39 !s100 >3XaJ2jdBP3Uc^:V9i_?K0
+Z40 !s108 1728990862.033000
+Z41 !s107 D:/@MVL2024/VERILOG/EXP9 MUX 2X1/twomuxtb.v|
+!s85 0
